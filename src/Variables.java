@@ -9,7 +9,7 @@ public class Variables {
 
 
         //Delcaracion e inicializacion de tipo entero
-        int salary = 1000;
+     //   int salary = 1000;
 
         //Declaracion e inicializacion de tipo texto
         String employeeName = "Yeison Cordoba";
