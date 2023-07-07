@@ -20,7 +20,7 @@ public class NamingJava {
 
         //UPPER CAMEL CASE
         String FullName  = " Yeison Andres Parra Cordoba";
-        int SizeInCentimetersc = 37;
+        int SizeInCentimeters = 37;
 
 
         //LOWER CAMEL CASE
