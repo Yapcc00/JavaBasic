@@ -3,6 +3,6 @@ public class OperacionesMatematicas {
         double x = 2.1;
         double y = 3;
 
-        System.out.println(Math.);
+
     }
 }
